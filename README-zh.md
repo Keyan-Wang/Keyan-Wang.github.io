@@ -91,7 +91,7 @@ my-blog
         personalInfo: {
         
         // 名称
-          name: 'melodydl',
+          name: 'keyan',
           
           // 头像 public文件夹下
           avatar: '/avatar-top.jpeg',
@@ -119,7 +119,7 @@ my-blog
         header: {
           home: {
             title: 'Top Blog', 
-            subtitle: '好好生活，慢慢相遇', 
+            subtitle: '写好代码，过好生活', 
             headerImage: '/home-bg.jpeg'
           },
           

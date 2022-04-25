@@ -18,16 +18,16 @@ module.exports = {
 
   theme: path.resolve(__dirname, '../../lib'),
   themeConfig: {
-    title: 'Top Blog',
+    title: 'My Blog',
 
     // aside personInfo
     personalInfo: {
-      name: 'melodydl',
-      avatar: '/avatar-top.jpeg',
+      name: 'keyan',
+      avatar: '/avatar-top.jpg',
       headerBackgroundImg: '/avatar-bg.jpeg',
       description: 'In me the tiger sniffs the rose<br/>心有猛虎，细嗅蔷薇',
-      email: 'facecode@foxmail.com',
-      location: 'Shanghai, China',
+      email: 'my_dargon@126.com',
+      location: 'Beijing, China',
       // organization: '不知名某公司',
     },
     // Nav link
@@ -38,13 +38,13 @@ module.exports = {
     ],
     header: {
       home: {
-        title: 'Top Blog',
-        subtitle: '好好生活，慢慢相遇',
+        title: 'My Blog',
+        subtitle: '写好代码，过好生活',
         headerImage: '/home-bg.jpeg',
       },
       tags: {
         title: 'Tags',
-        subtitle: '遇见你花光了我所有的运气',
+        subtitle: '爱自己是终身浪漫的开始',
         headerImage: '/tags-bg.jpg',
       },
       postHeaderImg: '/post-bg.jpeg',
@@ -53,19 +53,19 @@ module.exports = {
     sns: {
       csdn: {
         account: 'csdn',
-        link: 'https://blog.csdn.net/weixin_44002432',
+        // link: 'https://blog.csdn.net/weixin_44002432',
       },
       weibo: {
         account: 'weibo',
-        link: 'https://weibo.com/u/5656925978',
+        // link: 'https://weibo.com/u/5656925978',
       },
       juejin: {
         account: 'juejin',
-        link: 'https://juejin.im/user/5ce784a0f265da1b8333673c',
+        // link: 'https://juejin.im/user/5ce784a0f265da1b8333673c',
       },
       zhihu: {
         account: 'zhihu',
-        link: 'https://www.zhihu.com/people/sheng-tang-de-xing-kong',
+        // link: 'https://www.zhihu.com/people/sheng-tang-de-xing-kong',
       },
       github: {
         account: 'github',
@@ -81,14 +81,12 @@ module.exports = {
         width: '80px',
         height: '20px',
       },
-      custom: `Copyright &copy; Top Blog 2020 <br />
-        Theme By <a href='https://www.vuepress.cn/' target='_blank'>VuePress</a>
+      custom: `Theme By <a href='https://www.vuepress.cn/' target='_blank'>VuePress</a>
         | <a href='https://www.github.com/Keyan-Wang/' target='_blank'>Keyan-Wang</a>`,
     },
     pagination: {
       perPage: 5,
     },
-
     comments: {
       owner: 'Keyan-Wang',
       repo: 'blog',

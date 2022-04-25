@@ -93,7 +93,7 @@ Config Vuepress and this theme in `src/.vuepress/config.js`：
         personalInfo: {
         
           // Nikename
-          name: 'melodydl',
+          name: 'keyan',
           
           // Avatar image
           avatar: '/avatar-top.jpeg',
