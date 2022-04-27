@@ -1,8 +1,8 @@
 # VuePress Blog Theme 
 
-[![](https://img.shields.io/circleci/build/github/Keyan-Wang/blog)](https://circleci.com/gh/Keyan-Wang/blog)
+[![](https://img.shields.io/circleci/build/github/keyanMalfoy/blog)](https://circleci.com/gh/keyanMalfoy/blog)
 [![](https://img.shields.io/npm/v/blog)](https://www.npmjs.com/package/blog)
-[![](https://img.shields.io/github/license/Keyan-Wang/blog)](https://github.com/Keyan-Wang/blog/blob/master/LICENSE)
+[![](https://img.shields.io/github/license/keyanMalfoy/blog)](https://github.com/keyanMalfoy/blog/blob/master/LICENSE)
 
 [English](./README.md) | 简体中文
 
@@ -157,7 +157,7 @@ my-blog
           // Github 帐号和链接
           "github": { 
             account: "github",
-            link: "https://github.com/Keyan-Wang"
+            link: "https://github.com/keyanMalfoy"
           }
         },
         // 底部 footer 的相关设置 
@@ -165,7 +165,7 @@ my-blog
           // gitbutton  配置
           gitbtn: {
             // 仓库地址
-            repository: "https://ghbtns.com/github-btn.html?user=Keyan-Wang&repo=vuepress-theme-top&type=star&count=true",
+            repository: "https://ghbtns.com/github-btn.html?user=keyanMalfoy&repo=vuepress-theme-top&type=star&count=true",
             frameborder: 0,
             scrolling: 0,
             width: "80px",
@@ -175,7 +175,7 @@ my-blog
           // 添加自定义 footer
           custom: `Copyright &copy; Top Blog 2020 <br /> 
             Theme By <a href="https://www.vuepress.cn/" target="_blank">VuePress</a>
-            | <a href="https://www.github.com/Keyan-Wang/" target="_blank">Keyan-Wang</a>`
+            | <a href="https://www.github.com/keyanMalfoy/" target="_blank">keyanMalfoy</a>`
         },
         
         // 分页配置
@@ -186,7 +186,7 @@ my-blog
         
         // vssue 评论配置, 如果不需要，可以设置 comments: false
         comments: {    
-          owner: 'Keyan-Wang',
+          owner: 'keyanMalfoy',
           repo: 'blog',
           clientId: 'dfba8ecad544784fec1f',
           clientSecret: '1358ac11bc8face24f598601991083e27372988d',

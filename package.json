@@ -13,15 +13,15 @@
     "theme",
     "vuepress"
   ],
-  "homepage": "https://github.com/Keyan-Wang/blog",
+  "homepage": "https://github.com/keyanMalfoy/blog",
   "bugs": {
-    "url": "https://github.com/Keyan-Wang/blog/issues"
+    "url": "https://github.com/keyanMalfoy/blog/issues"
   },
-  "repository": "git+https://github.com/Keyan-Wang/blog",
+  "repository": "git+https://github.com/keyanMalfoy/blog",
   "files": [
     "lib/"
   ],
-  "author": "Keyan-Wang",
+  "author": "keyanMalfoy",
   "license": "MIT",
   "eslintConfig": {
     "extends": [

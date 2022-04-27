@@ -69,26 +69,26 @@ module.exports = {
       },
       github: {
         account: 'github',
-        link: 'https://github.com/Keyan-Wang',
+        link: 'https://github.com/keyanMalfoy',
       },
     },
     // footer github button
     footer: {
       gitbtn: {
-        repository: 'https://ghbtns.com/github-btn.html?user=Keyan-Wang&repo=blog&type=star&count=true',
+        repository: 'https://ghbtns.com/github-btn.html?user=keyanMalfoy&repo=blog&type=star&count=true',
         frameborder: 0,
         scrolling: 0,
         width: '80px',
         height: '20px',
       },
       custom: `Theme By <a href='https://www.vuepress.cn/' target='_blank'>VuePress</a>
-        | <a href='https://www.github.com/Keyan-Wang/' target='_blank'>Keyan-Wang</a>`,
+        | <a href='https://www.github.com/keyanMalfoy/' target='_blank'>keyanMalfoy</a>`,
     },
     pagination: {
       perPage: 5,
     },
     comments: {
-      owner: 'Keyan-Wang',
+      owner: 'keyanMalfoy',
       repo: 'blog',
       clientId: 'd821e5499c1d72a78039',
       clientSecret: '7aee0783e9d4110041e604e7121b985655a49cf1',

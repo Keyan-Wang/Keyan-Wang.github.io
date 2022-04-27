@@ -11,9 +11,9 @@ jobs:
       uses: jenkey2011/vuepress-deploy@master
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN  }} // github Token
-        TARGET_REPO: keyan-Wang/keyan-Wang.github.io  // 仓库
+        TARGET_REPO: keyanMalfoy/keyanMalfoy.github.io  // 仓库
 
         TARGET_BRANCH: prod    // build 之后推到的分支名
         BUILD_SCRIPT: npm && npm run build
         BUILD_DIR: src/.vuepress/dist/     //build 之后的目录
-        CNAME:  https://keyan-wang.github.io/
+        CNAME:  https://keyanMalfoy.github.io/

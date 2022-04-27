@@ -1,8 +1,8 @@
 # VuePress Blog Theme 
 
-[![](https://img.shields.io/circleci/build/github/Keyan-Wang/blog)](https://circleci.com/gh/Keyan-Wang/blog)
+[![](https://img.shields.io/circleci/build/github/keyanMalfoy/blog)](https://circleci.com/gh/keyanMalfoy/blog)
 [![](https://img.shields.io/npm/v/blog)](https://www.npmjs.com/package/blog)
-[![](https://img.shields.io/github/license/Keyan-Wang/blog)](https://github.com/Keyan-Wang/blog/blob/master/LICENSE)
+[![](https://img.shields.io/github/license/keyanMalfoy/blog)](https://github.com/keyanMalfoy/blog/blob/master/LICENSE)
 
 English | [简体中文](./README-zh.md)
 
@@ -159,7 +159,7 @@ Config Vuepress and this theme in `src/.vuepress/config.js`：
           // Github account and link
           "github": { 
             account: "github",
-            link: "https://github.com/Keyan-Wang"
+            link: "https://github.com/keyanMalfoy"
           }
         },
         // Footer of website config
@@ -167,7 +167,7 @@ Config Vuepress and this theme in `src/.vuepress/config.js`：
           // Gitbutton config
           gitbtn: {
             // github repository
-            repository: "https://ghbtns.com/github-btn.html?user=Keyan-Wang&repo=vuepress-theme-top&type=star&count=true",
+            repository: "https://ghbtns.com/github-btn.html?user=keyanMalfoy&repo=vuepress-theme-top&type=star&count=true",
             frameborder: 0,
             scrolling: 0,
             width: "80px",
@@ -177,7 +177,7 @@ Config Vuepress and this theme in `src/.vuepress/config.js`：
           // Add footer content
           custom: `Copyright &copy; Top Blog 2020 <br /> 
             Theme By <a href="https://www.vuepress.cn/" target="_blank">VuePress</a>
-            | <a href="https://www.github.com/Keyan-Wang/" target="_blank">Keyan-Wang</a>`
+            | <a href="https://www.github.com/keyanMalfoy/" target="_blank">keyanMalfoy</a>`
         },
         
         // Pagination config
@@ -188,7 +188,7 @@ Config Vuepress and this theme in `src/.vuepress/config.js`：
         
         // Comments config. See the [Posts Comments] section below.
         comments: {    
-          owner: 'Keyan-Wang',
+          owner: 'keyanMalfoy',
           repo: 'blog',
           clientId: 'dfba8ecad544784fec1f',
           clientSecret: '1358ac11bc8face24f598601991083e27372988d',
